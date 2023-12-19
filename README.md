@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rajaram</h1>
-<h3 align="center">AI developer @RTI International</h3>
+<h3 align="center">AI developer II @RTI International</h3>
 
 <p align="left"> <a href="https://twitter.com/rajaram1196" target="blank"><img src="https://img.shields.io/twitter/follow/rajaram1196?logo=twitter&style=for-the-badge" alt="rajaram1196" /></a> </p>
 
