@@ -11,7 +11,7 @@
 
 - 📝 I sometimes write articles on [https://raja1196.netlify.app/](https://raja1196.netlify.app/)
 
-- 📄 Know about my experiences [https://github.com/raja1196/raja1196/blob/main/Resume_rthiruv.pdf](https://github.com/raja1196/raja1196/blob/main/Resume_rthiruv.pdf)
+- 📄 Know about my experiences [https://github.com/raja1196/raja1196/blob/main/Resume_rthiruv.pdf](https://github.com/raja1196/raja1196/blob/main/Resume_rthiruv_updated.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
